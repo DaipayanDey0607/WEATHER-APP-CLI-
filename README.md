@@ -28,3 +28,5 @@ During the development of this project, practical knowledge of Python programmin
 In conclusion, the Weather App (CLI) is a simple yet practical Python project that demonstrates the integration of programming concepts with real-time weather data retrieval. It provides a strong foundation for developing more advanced applications, such as weather forecasting systems with graphical user interfaces, five-day forecasts, and weather data visualization. Overall, this internship task was a valuable learning experience that improved programming skills and provided a better understanding of practical software development using Python.
 
 OUTPUT:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d464d943-c1ca-4fb0-aa11-a360d3a0cebb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb53becf-7d39-4286-970e-abe3e866caac" />
